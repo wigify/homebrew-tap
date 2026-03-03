@@ -1,6 +1,6 @@
 cask "wigify" do
-  version "0.5.5"
-  sha256 "7df53dbb09ab572f50ac829b732e7c206c15c9d2aee672a30f47dc699af43dea"
+  version "0.6.0"
+  sha256 "c0d564baeaf556f854f9ac11568f909cecda30b5c555cb9b130b16d7c095d87a"
 
   url "https://github.com/wigify/wigify/releases/download/v#{version}/Wigify-Mac-#{version}-arm64.zip"
   name "Wigify"
